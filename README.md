@@ -8,6 +8,6 @@ How to RUN?
 4. 
 
 Evalutaion :-
-  if you want to test and use your own input voice
-  follow the steps on cell 4
-  use audacity or other tools to alter ur files as per requirements
+ 1. if you want to test and use your own input voice
+ 2. follow the steps on cell 4
+ 3. use audacity or other tools to alter ur files as per requirements
