@@ -4,7 +4,7 @@ How to RUN?
 
 1. Open the voice--tts.ipynb in google collab with GPU runtime
 2. Follow instructions on each cell
-3. Check the video for a full guide on how it works [Link Text](https://drive.google.com/file/d/1UlTSvJcq7CTIvA-g9-pB9LIM5_uJFyPu/view?usp=sharing)
+3. Check the video for a full guide on how it works [here](https://drive.google.com/file/d/1UlTSvJcq7CTIvA-g9-pB9LIM5_uJFyPu/view?usp=sharing)
 
 
 Evalutaion :-
